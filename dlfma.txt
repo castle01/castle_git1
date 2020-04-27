@@ -1,0 +1,13 @@
+
+
+				#접니다
+			#저예요
+		#저라구요
+	#안녕하세요
+
+	echo "# castle_git1" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/castle01/castle_git1.git
+	git push -u origin master
