@@ -11,3 +11,20 @@
 	git commit -m "first commit"
 	git remote add origin https://github.com/castle01/castle_git1.git
 	git push -u origin master
+
+
+	#다른사람 깃허브가져오기 
+	# 폴더에 GIT BASH HERE누르고
+	# $ git init
+	# $ git remote add origin 그사람 주소
+	# $ git pull origin master
+
+	#내 깃허브 업로드하기
+	# 폴더에 GIT BASH HERE누르고
+	# $ git init
+	# $ git remote add origin 내주소
+	# $ git status 상태확인하기 - 파일을 만들고 해야됨
+	# $ git add .
+	# $ git status
+	# $ git commit -m "쓸꺼"
+	# $ git push origin master
